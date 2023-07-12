@@ -1,20 +1,38 @@
-using housefyBackend.Models;  // Import the namespace of the Feedback class
-using Microsoft.AspNetCore.Components;
+using housefyBackend.Data;
+using housefyBackend.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 [ApiController]
-[Microsoft.AspNetCore.Components.Route("api/feedback")]
+[Route("api/feedback")]
 public class FeedbackController : ControllerBase
 {
-    [HttpPost]
-    public IActionResult CreateFeedback([FromBody] Feedback feedback)
+    private readonly housefyBackendDbContext _context;
+
+    public FeedbackController(housefyBackendDbContext context)
     {
-        // Access the properties of the feedback object
-        string fullName = feedback.FullName;
-        string phoneNumber = feedback.PhoneNumber;
-        string email = feedback.Email;
-        int rate = feedback.Rate;
-        string comment = feedback.Comment;
+        _context = context;
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> CreateFeedback([FromBody] Feedback feedback)
+    {
+        if(feedback.User != null && feedback.User.UserId != 0) {
+            var user = await _context.Users.FindAsync(feedback.User.UserId);
+            if(user != null) {
+                user.FullName = feedback.User.FullName;
+                user.Email = feedback.User.Email;
+                user.PhoneModel = feedback.User.PhoneModel;
+            } else {
+                _context.Users.Add(feedback.User);
+            }
+        } else {
+            _context.Users.Add(feedback.User);
+        }
+
+        _context.Feedbacks.Add(feedback);
+        await _context.SaveChangesAsync();
 
         return Ok();
     }
