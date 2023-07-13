@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1HEh2q4J0CJkS+cMzGE85ULzZ1oVyOUBy7JKQO7NHhZN5o02gq7/c3ubYcvtDpfC7cebDo62hGOQ9852XOHDPw==",
+  "dgSpecHash": "ZRRF0TArqfegtyQR600kLHUuOphpUSsKMe7yK5TOw3J5ynY0MG+pHkkUygmRHOFbLpn0vWSB8g74BjRyvClVSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefyBackend\\housefyBackend.csproj",
+  "projectFilePath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-Backend\\housefyBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bruc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.9\\microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
