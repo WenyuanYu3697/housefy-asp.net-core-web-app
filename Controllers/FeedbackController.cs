@@ -18,22 +18,34 @@ public class FeedbackController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> CreateFeedback([FromBody] Feedback feedback)
     {
-        if(feedback.User != null && feedback.User.UserId != 0) {
-            var user = await _context.Users.FindAsync(feedback.User.UserId);
-            if(user != null) {
+        if (feedback.User != null)
+        {
+            // Find the user by email
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == feedback.User.Email);
+
+            if (user != null)
+            {
                 user.FullName = feedback.User.FullName;
-                user.Email = feedback.User.Email;
                 user.PhoneModel = feedback.User.PhoneModel;
-            } else {
-                _context.Users.Add(feedback.User);
             }
-        } else {
-            _context.Users.Add(feedback.User);
+            else
+            {
+                user = feedback.User;
+                _context.Users.Add(user);
+                await _context.SaveChangesAsync();
+            }
+
+            feedback.User = user;
+            feedback.UserId = user.UserId;
+
+            _context.Feedbacks.Add(feedback);
+            await _context.SaveChangesAsync();
+
+            return Ok();
         }
-
-        _context.Feedbacks.Add(feedback);
-        await _context.SaveChangesAsync();
-
-        return Ok();
+        else
+        {
+            return BadRequest("User cannot be null.");
+        }
     }
 }
