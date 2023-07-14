@@ -27,6 +27,7 @@ public class FeedbackController : ControllerBase
             {
                 user.FullName = feedback.User.FullName;
                 user.PhoneModel = feedback.User.PhoneModel;
+                user.PhoneNumber = feedback.User.PhoneNumber;
             }
             else
             {
