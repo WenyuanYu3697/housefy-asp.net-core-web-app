@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-Backend\\housefyBackend.csproj": {}
+    "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-Backend\\housefyBackend.csproj": {
+    "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-Backend\\housefyBackend.csproj",
+        "projectUniqueName": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj",
         "projectName": "housefyBackend",
-        "projectPath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-Backend\\housefyBackend.csproj",
+        "projectPath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj",
         "packagesPath": "C:\\Users\\bruc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-Backend\\obj\\",
+        "outputPath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bruc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FirebaseAdmin": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "FirebaseDatabase.net": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.9, )"

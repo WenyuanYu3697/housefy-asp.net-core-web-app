@@ -78,3 +78,17 @@ C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_
 C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.pdb
 C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.genruntimeconfig.cache
 C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\ref\housefyBackend.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\FirebaseAdmin.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Firebase.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Api.Gax.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Api.Gax.Rest.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.Auth.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.Core.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\LiteDB.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\System.Reactive.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\keys\housefybackend-environment-firebase-adminsdk-88cmw-be64f7e1c4.json

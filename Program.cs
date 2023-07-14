@@ -1,11 +1,18 @@
 using housefyBackend.Data;
 using housefyBackend.Models;
 using Microsoft.EntityFrameworkCore;
+using Google.Apis.Auth.OAuth2;
+using FirebaseAdmin;
+using Microsoft.Extensions.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-// Add services to the container.
+// Initialize Firebase
+var defaultApp = FirebaseApp.Create(new AppOptions()
+{
+    Credential = GoogleCredential.FromFile(builder.Configuration["Firebase:ServiceAccountKeyPath"]),
+});
 
 builder.Services.AddDbContext<housefyBackendDbContext>(options => 
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
