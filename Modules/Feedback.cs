@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -26,7 +27,7 @@ namespace housefyBackend.Models
         [StringLength(30)]
         public string PhoneNumber { get; set; }
 
-        public ICollection<Feedback> Feedbacks { get; set; } // Navigation property
+        public ICollection<Feedback>? Feedbacks { get; set; } // Navigation property
     }
 
 
@@ -46,5 +47,4 @@ namespace housefyBackend.Models
 
         public User User { get; set; } // Navigation property
     }
-
 }
