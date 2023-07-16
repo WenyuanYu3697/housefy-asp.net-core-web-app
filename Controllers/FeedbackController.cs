@@ -25,16 +25,20 @@ public class FeedbackController : ControllerBase
 
             if (user != null)
             {
+                // Update the user details
                 user.FullName = feedback.User.FullName;
                 user.PhoneModel = feedback.User.PhoneModel;
                 user.PhoneNumber = feedback.User.PhoneNumber;
+                _context.Entry(user).State = EntityState.Modified; // Set the user state to Modified
             }
             else
             {
+                // If user doesn't exist, create a new one
                 user = feedback.User;
                 _context.Users.Add(user);
-                await _context.SaveChangesAsync();
             }
+
+            await _context.SaveChangesAsync();
 
             feedback.User = user;
             feedback.UserId = user.UserId;
