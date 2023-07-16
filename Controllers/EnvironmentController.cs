@@ -6,44 +6,37 @@ using Firebase.Database;
 using Firebase.Database.Query;
 using System;
 using System.Linq;
+using Microsoft.Extensions.Configuration;
 
 [ApiController]
 [Route("api/environment")]
 public class EnvironmentController : ControllerBase
 {
-    private static readonly Random random = new Random();
-    
-    private const string FirebaseUrl = "https://housefybackend-environment-default-rtdb.firebaseio.com/";
     private readonly FirebaseClient _client;
 
-    public EnvironmentController()
+    public EnvironmentController(IConfiguration config)
     {
-        _client = new FirebaseClient(FirebaseUrl);
+        string firebaseUrl = config["Firebase:Url"] ?? throw new Exception("Firebase:Url is not set in the configuration.");
+        _client = new FirebaseClient(firebaseUrl);
     }
 
     [HttpGet]
-   public async Task<IActionResult> GetEnvironmentData()
-   {
-    try
+    public async Task<IActionResult> GetEnvironmentData()
     {
-        var environmentData = await _client.Child("EnvironmentData")
-          .OrderByKey()
-          .OnceAsync<EnvironmentData>();
+        try
+        {
+            var environmentData = await _client.Child("EnvironmentData")
+                .OrderByKey()
+                .OnceAsync<EnvironmentData>();
 
-        Console.WriteLine($"Retrieved {environmentData.Count} items");
+            Console.WriteLine($"Retrieved {environmentData.Count} items");
 
-        return Ok(environmentData.Select(item => item.Object));
-    }
-    catch (Exception ex)
-    {
-        Console.WriteLine($"An error occurred: {ex}");
-        throw;
-    }
-   }
-
-
-    private double GetRandomDouble(double min, double max)
-    {
-        return random.NextDouble() * (max - min) + min;
+            return Ok(environmentData.Select(item => item.Object));
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"An error occurred: {ex}");
+            throw;
+        }
     }
 }
