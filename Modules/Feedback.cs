@@ -22,7 +22,9 @@ namespace housefyBackend.Models
         [StringLength(20)]
         public string PhoneModel { get; set; }
 
-        public int PhoneNumber { get; set; }
+        [Required]
+        [StringLength(30)]
+        public string PhoneNumber { get; set; }
 
         public ICollection<Feedback> Feedbacks { get; set; } // Navigation property
     }
