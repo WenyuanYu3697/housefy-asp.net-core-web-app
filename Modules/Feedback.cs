@@ -15,12 +15,12 @@ namespace housefyBackend.Models
         public string FullName { get; set; }
 
         [Required]
-        [StringLength(20)]
+        [StringLength(100)]
         [EmailAddress]
         public string Email { get; set; }
 
         [Required]
-        [StringLength(20)]
+        [StringLength(40)]
         public string PhoneModel { get; set; }
 
         [Required]
