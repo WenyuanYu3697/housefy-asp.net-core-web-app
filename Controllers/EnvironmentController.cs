@@ -29,8 +29,6 @@ public class EnvironmentController : ControllerBase
                 .OrderByKey()
                 .OnceAsync<EnvironmentData>();
 
-            Console.WriteLine($"Retrieved {environmentData.Count} items");
-
             return Ok(environmentData.Select(item => item.Object));
         }
         catch (Exception ex)

@@ -5,4 +5,5 @@ public class EnvironmentData
     public float Co2 { get; set; }
     public float Voc { get; set; }
     public float LightLevel { get; set; }
+    public float Kwh { get; set; }
 }
