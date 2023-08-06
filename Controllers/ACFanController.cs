@@ -5,14 +5,15 @@ using Microsoft.AspNetCore.Mvc;
 public class ACFanController : ControllerBase
 {
     [HttpGet]
-    public ActionResult<bool> GetStatus()
+    public ActionResult<DeviceStatus.ACFanStatus> GetStatus()
     {
-        return DeviceStatus.ACFanIsOn;
+        return DeviceStatus.Fan;
     }
 
     [HttpPost]
-    public void PostStatus([FromBody] bool status)
+    public void PostStatus([FromBody] DeviceStatus.ACFanStatus fanStatus)
     {
-        DeviceStatus.ACFanIsOn = status;
+        DeviceStatus.Fan.IsOn = fanStatus.IsOn;
+        DeviceStatus.Fan.Speed = fanStatus.Speed;
     }
 }
