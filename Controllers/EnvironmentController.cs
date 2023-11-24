@@ -25,7 +25,7 @@ public class EnvironmentController : ControllerBase
     {
         try
         {
-            var environmentData = await _client.Child("EnvironmentData")
+            var environmentData = await _client.Child("sensor_data")
                 .OrderByKey()
                 .OnceAsync<EnvironmentData>();
 
