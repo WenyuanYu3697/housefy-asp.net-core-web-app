@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("housefyBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27cc76d32509507dbb80bd9a44ee2f83b4878a99")]
 [assembly: System.Reflection.AssemblyProductAttribute("housefyBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("housefyBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

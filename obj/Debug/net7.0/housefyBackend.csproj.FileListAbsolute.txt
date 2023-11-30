@@ -1,94 +1,149 @@
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\appsettings.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\housefyBackend.exe
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\housefyBackend.deps.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\housefyBackend.runtimeconfig.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\housefyBackend.pdb
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.csproj.AssemblyReference.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.AssemblyInfoInputs.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.AssemblyInfo.cs
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.csproj.CoreCompileInputs.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets\msbuild.housefyBackend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets\msbuild.build.housefyBackend.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.housefyBackend.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.housefyBackend.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\scopedcss\bundle\housefyBackend.styles.css
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.csproj.CopyComplete
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\refint\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.pdb
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\housefyBackend.genruntimeconfig.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\obj\Debug\net7.0\ref\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Humanizer.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\MySqlConnector.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefyBackend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\appsettings.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\housefyBackend.exe
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\housefyBackend.deps.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\housefyBackend.runtimeconfig.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\housefyBackend.pdb
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Humanizer.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\MySqlConnector.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.csproj.AssemblyReference.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.AssemblyInfoInputs.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.AssemblyInfo.cs
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.csproj.CoreCompileInputs.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets\msbuild.housefyBackend.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.housefyBackend.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.housefyBackend.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.housefyBackend.props
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\scopedcss\bundle\housefyBackend.styles.css
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.csproj.CopyComplete
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\refint\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.pdb
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\housefyBackend.genruntimeconfig.cache
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-Backend\obj\Debug\net7.0\ref\housefyBackend.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\FirebaseAdmin.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Firebase.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Api.Gax.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Api.Gax.Rest.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.Auth.PlatformServices.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.Auth.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Google.Apis.Core.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\LiteDB.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\System.Reactive.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\System.Runtime.InteropServices.WindowsRuntime.dll
-C:\Users\bruc\OneDrive\Desktop\CENG SEMESTER 5\Software Project\Project\Housefy_backend\housefy-backend\bin\Debug\net7.0\keys\housefybackend-environment-firebase-adminsdk-88cmw-be64f7e1c4.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/appsettings.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/housefyBackend.exe
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/housefyBackend.deps.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/housefyBackend.runtimeconfig.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/housefyBackend.pdb
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.csproj.AssemblyReference.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.AssemblyInfoInputs.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.AssemblyInfo.cs
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.csproj.CoreCompileInputs.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets/msbuild.housefyBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets/msbuild.build.housefyBackend.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.housefyBackend.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.housefyBackend.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/scopedcss/bundle/housefyBackend.styles.css
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.csproj.CopyComplete
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/refint/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.pdb
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/housefyBackend.genruntimeconfig.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/obj/Debug/net7.0/ref/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Humanizer.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/MySqlConnector.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefyBackend/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/appsettings.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/housefyBackend.exe
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/housefyBackend.deps.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/housefyBackend.runtimeconfig.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/housefyBackend.pdb
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Humanizer.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/MySqlConnector.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.csproj.AssemblyReference.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.AssemblyInfoInputs.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.AssemblyInfo.cs
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.csproj.CoreCompileInputs.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets/msbuild.housefyBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.housefyBackend.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.housefyBackend.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.housefyBackend.props
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/scopedcss/bundle/housefyBackend.styles.css
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.csproj.CopyComplete
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/refint/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.pdb
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/housefyBackend.genruntimeconfig.cache
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-Backend/obj/Debug/net7.0/ref/housefyBackend.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/FirebaseAdmin.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Firebase.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Google.Api.Gax.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Google.Apis.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Google.Apis.Auth.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Google.Apis.Core.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/LiteDB.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/System.Reactive.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/System.Runtime.InteropServices.WindowsRuntime.dll
+C:/Users/bruc/OneDrive/Desktop/CENG SEMESTER 5/Software Project/Project/Housefy_backend/housefy-backend/bin/Debug/net7.0/keys/housefybackend-environment-firebase-adminsdk-88cmw-be64f7e1c4.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/appsettings.Development.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/appsettings.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/keys/housefybackend-environment-firebase-adminsdk-88cmw-be64f7e1c4.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/housefyBackend
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/housefyBackend.deps.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/housefyBackend.runtimeconfig.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/housefyBackend.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/housefyBackend.pdb
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/FirebaseAdmin.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Firebase.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Google.Api.Gax.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Google.Api.Gax.Rest.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Google.Apis.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Google.Apis.Auth.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Google.Apis.Core.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Humanizer.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/LiteDB.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/MySqlConnector.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/System.Reactive.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/bin/Debug/net7.0/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.csproj.AssemblyReference.cache
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.AssemblyInfoInputs.cache
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.AssemblyInfo.cs
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.csproj.CoreCompileInputs.cache
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.MvcApplicationPartsAssemblyInfo.cs
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.MvcApplicationPartsAssemblyInfo.cache
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.sourcelink.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets.build.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets.development.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets/msbuild.housefyBackend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets/msbuild.build.housefyBackend.props
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.housefyBackend.props
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.housefyBackend.props
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/scopedcss/bundle/housefyBackend.styles.css
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.csproj.CopyComplete
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/refint/housefyBackend.dll
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.pdb
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/housefyBackend.genruntimeconfig.cache
+/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/Debug/net7.0/ref/housefyBackend.dll

@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj": {}
+    "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj": {
+    "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj",
+        "projectUniqueName": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj",
         "projectName": "housefyBackend",
-        "projectPath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\housefyBackend.csproj",
-        "packagesPath": "C:\\Users\\bruc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bruc\\OneDrive\\Desktop\\CENG SEMESTER 5\\Software Project\\Project\\Housefy_backend\\housefy-backend\\obj\\",
+        "projectPath": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj",
+        "packagesPath": "/Users/yuwenyuan/.nuget/packages/",
+        "outputPath": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bruc\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/yuwenyuan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -89,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

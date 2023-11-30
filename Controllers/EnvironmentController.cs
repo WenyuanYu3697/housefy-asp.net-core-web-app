@@ -21,20 +21,31 @@ public class EnvironmentController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<IActionResult> GetEnvironmentData()
+public async Task<IActionResult> GetEnvironmentData()
+{
+    try
     {
-        try
-        {
-            var environmentData = await _client.Child("sensor_data")
-                .OrderByKey()
-                .OnceAsync<EnvironmentData>();
+        // Fetch the last record from the 'sensor' node
+        var lastEnvironmentData = await _client.Child("sensor")
+            .OrderByKey()
+            .LimitToLast(1)
+            .OnceAsync<EnvironmentData>();
 
-            return Ok(environmentData.Select(item => item.Object));
-        }
-        catch (Exception ex)
+        // Since LimitToLast(1) returns a collection of one item, extract that item
+        var lastRecord = lastEnvironmentData.FirstOrDefault()?.Object;
+
+        if (lastRecord == null)
         {
-            Console.WriteLine($"An error occurred: {ex}");
-            throw;
+            return NotFound("No data available.");
         }
+
+        return Ok(lastRecord);
     }
+    catch (Exception ex)
+    {
+        Console.WriteLine($"An error occurred: {ex}");
+        return StatusCode(500, "Internal Server Error");
+    }
+}
+
 }
