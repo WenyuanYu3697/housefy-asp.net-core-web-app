@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj": {}
+    "/Users/yuwenyuan/housefy/housefy_backend/housefy-asp.net-core-web-app/housefyBackend.csproj": {}
   },
   "projects": {
-    "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj": {
+    "/Users/yuwenyuan/housefy/housefy_backend/housefy-asp.net-core-web-app/housefyBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj",
+        "projectUniqueName": "/Users/yuwenyuan/housefy/housefy_backend/housefy-asp.net-core-web-app/housefyBackend.csproj",
         "projectName": "housefyBackend",
-        "projectPath": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj",
+        "projectPath": "/Users/yuwenyuan/housefy/housefy_backend/housefy-asp.net-core-web-app/housefyBackend.csproj",
         "packagesPath": "/Users/yuwenyuan/.nuget/packages/",
-        "outputPath": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/obj/",
+        "outputPath": "/Users/yuwenyuan/housefy/housefy_backend/housefy-asp.net-core-web-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yuwenyuan/.nuget/NuGet/NuGet.Config"

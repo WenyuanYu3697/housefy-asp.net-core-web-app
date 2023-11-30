@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yqHypMDj6iBU0LqlgVgww0tVaW722pfTgYcS6c2LWFfKNi+3/eaEY5g6rScUgmfpQjKYLzxllmAN8tPRamnQEA==",
+  "dgSpecHash": "k0toVB+N6Qa6hujqywtfYEq9l5pTxlcgCvaLIGvTfyKC8RUHb6CMkZq9frAtFFjDGMBa2KvVCnysp0wZob8IUA==",
   "success": true,
-  "projectFilePath": "/Users/yuwenyuan/housefy/housefy-asp.net-core-web-app/housefyBackend.csproj",
+  "projectFilePath": "/Users/yuwenyuan/housefy/housefy_backend/housefy-asp.net-core-web-app/housefyBackend.csproj",
   "expectedPackageFiles": [
     "/Users/yuwenyuan/.nuget/packages/firebaseadmin/2.4.0/firebaseadmin.2.4.0.nupkg.sha512",
     "/Users/yuwenyuan/.nuget/packages/firebasedatabase.net/4.2.0/firebasedatabase.net.4.2.0.nupkg.sha512",
