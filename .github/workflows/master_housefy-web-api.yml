@@ -54,4 +54,4 @@ jobs:
           app-name: 'housefy-web-api'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B2DF60BD0074DEBB734FE0AA4477C68 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A14D86F23F5473E82DBD31F6B44F8A3 }}
